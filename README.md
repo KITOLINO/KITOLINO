@@ -12,7 +12,7 @@ E como podem ver, o meu apelido é "Kitolino"!
  e sou apaixonado por tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas.
 
   ## Contatos:
-  <a href="https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/cbettuci/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cbettuci/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cristian.bettuci8989@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/cristian-s-bettuci-2398b9289/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
