@@ -3,10 +3,10 @@
 E como podem ver, o meu apelido é "Kitolino"!
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais
-- 🌱 Estou aprendendo tecnologias técnicas como JAVA, JS, Banco de Dados, Git/Github !
+- 🌱 Estou aprendendo tecnologias como JAVA, JS, Banco de Dados, Git/Github !
 - 👯 Procuro colaborar em alguns projetos de código aberto
 - 📫 Como entrar em contato comigo :
-- 📞(16)9915191120 //📧 cristian.bettuci8989@gmail.com
+- 📞 (16)9915191120 
 - ❓ Você pode me perguntar qualquer coisa sobre qualquer tecnologia! Posso até não saber, mas sei onde procurar!
 - ⚡ Curiosidade: sou dentista formado! Tenho 34 anos especialista em Endodontia ( Canal)e Cirurgia
  e sou apaixonado por tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas.
