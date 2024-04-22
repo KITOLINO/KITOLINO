@@ -8,17 +8,15 @@
 - 📞(16)9915191120 //📧 cristian.bettuci8989@gmail.com
 - ❓ Você pode me perguntar qualquer coisa sobre qualquer tecnologia! Quase sempre não sei, mas sei procurar!
 - ⚡ Curiosidade: sou dentista formada! Tenho 34 anos e sou apaixonado por tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas.
-  
-Tecnologias// Ferramentas
 
 
-
+<div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="50" height="50"/>
-
+</div>
 
           
           
