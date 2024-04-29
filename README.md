@@ -3,7 +3,7 @@
 E como podem ver, o meu apelido é "Kitolino"!
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais
-- 🌱 Estou aprendendo tecnologias como JAVA, JS, Banco de Dados, Git/Github !
+- 🌱 Estou aprendendo tecnologias como JAVA, JS, Banco de Dados SQL(ORACLE), Git/Github !
 - 👯 Procuro colaborar em alguns projetos de código aberto
 - 📫 Como entrar em contato comigo :
 - 📞 (16)9915191120 
